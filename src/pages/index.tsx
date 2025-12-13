@@ -323,7 +323,7 @@ export default function HomePage() {
       <p className="text-gray-700 mb-6 leading-relaxed">
         We are more than just repair technicians; we are your trusted laundry
         partners. Whether at home or in your business, our goal is to keep your
-        washers, dryers, and laundry systems running at their best—quickly,
+        washers, dryers, and laundry systems running at their best quickly,
         safely, and affordably.
       </p>
 
