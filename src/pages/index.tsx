@@ -336,7 +336,7 @@ export default function HomePage() {
           <p className="text-gray-700 text-sm">
             Enjoy the convenience of our mobile repair service. No need to carry
             heavy machines—our team brings your washer to us. Fast, flexible, and
-            hassle-free.
+            hassle free.
           </p>
         </div>
 
@@ -347,7 +347,7 @@ export default function HomePage() {
           <p className="text-gray-700 text-sm">
             Our trained professionals are equipped with the highest tools and
             experience to handle any washer and dryer brands, ensuring precision
-            and long-lasting repairs.
+            and long lasting repairs.
           </p>
         </div>
 
@@ -367,7 +367,7 @@ export default function HomePage() {
           </h3>
           <p className="text-gray-700 text-sm">
             We stand behind each repair with guaranteed quality and dependable
-            after-care support because your satisfaction means the most.
+            after care support because your satisfaction means the most.
           </p>
         </div>
       </div>
@@ -491,7 +491,7 @@ export default function HomePage() {
     {/* Testimonial 1 */}
     <div className="bg-gray-100 shadow-md rounded-lg p-6">
       <p className="text-gray-700 mb-4">
-        “Washer Tech saved me! My washing machine had stopped spinning and they diagnosed the problem quickly. The technician was professional, reliable, and courteous — truly five-star service!”
+        “Washer Tech saved me! My washing machine had stopped spinning and they diagnosed the problem quickly. The technician was professional, reliable, and courteous  truly five star service!”
       </p>
       <div className="flex items-center space-x-4">
         <Image

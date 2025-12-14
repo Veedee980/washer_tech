@@ -24,10 +24,7 @@ body {
   color: var(--foreground);
   font-family: 'poppins', sans-serif;
 }
-/* ::placeholder {
-  color: #666666;
-  opacity: 1;
-} */
+
 @keyframes scroll {
   0% {
     transform: translateX(0);

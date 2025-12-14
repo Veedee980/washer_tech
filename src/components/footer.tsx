@@ -57,13 +57,13 @@ const Footer: React.FC = () => {
           </div>
 
           <p className="text-gray-200 text-sm mb-4 leading-relaxed">
-            Your trusted partner in professional laundry appliance care —
+            Your trusted partner in professional laundry appliance care 
             repairing, maintaining, and extending the life of your washers and dryers.
           </p>
 
           <p className="text-sm">📍 Belvedere, Harare, Zimbabwe</p>
           <p className="text-sm">📞 078 987 4042</p>
-          <p className="text-sm">✉️ washertechzim@gmail.com</p>
+          <p className="text-sm">✉️ washertech830@gmail.com</p>
         </div>
 
         {/* --- Quick Links --- */}
@@ -85,7 +85,7 @@ const Footer: React.FC = () => {
             <li>Washer Repair</li>
             <li>Tumble Dryer Repair</li>
             <li>Installation & Maintenance</li>
-            <li>Same-Day Service</li>
+            <li>Same Day Service</li>
           </ul>
         </div>
 

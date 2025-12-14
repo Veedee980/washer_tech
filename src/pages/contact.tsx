@@ -85,7 +85,7 @@ export default function Contact() {
       <h2 className="text-2xl font-semibold text-orange-500">Get In Touch</h2>
       <p>
         At <span className="font-bold text-gray-800">Washer Tech</span>, we specialize in repairing and maintaining all laundry equipment. 
-        Reach out for repairs, maintenance, advice, or even just a consultation — we’re here to help!
+        Reach out for repairs, maintenance, advice, or even just a consultation  we’re here to help!
       </p>
 
       <div className="space-y-4">
@@ -130,7 +130,7 @@ export default function Contact() {
           Send Us a Message
         </h2>
         <p className="text-gray-500 text-center mb-4">
-          We’d love to hear from you — whether you need repairs, maintenance, or advice. 
+          We’d love to hear from you whether you need repairs, maintenance, or advice. 
           Fill in your details and we’ll get back to you promptly.
         </p>
 

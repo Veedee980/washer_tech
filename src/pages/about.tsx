@@ -64,7 +64,7 @@ export default function About() {
     </p>
 
     <div className="border-l-4 border-orange-500 pl-4 italic text-sm text-gray-600">
-      We’re dedicated to keeping every laundry cycle stress-free...
+      We’re dedicated to keeping every laundry cycle stress free...
     </div>
 
     <h4 className="text-md font-semibold text-orange-500">
@@ -72,7 +72,7 @@ export default function About() {
     </h4>
 
     <p className="text-base leading-relaxed">
-      We go beyond fixing machines—we restore your peace of mind...
+      We go beyond fixing machines we restore your peace of mind...
     </p>
 
     <p className="text-base leading-relaxed">
@@ -173,10 +173,10 @@ export default function About() {
     {/* Text Content */}
     <div className="md:w-1/2 space-y-4">
       <h2 className="text-3xl md:text-4xl font-semibold">
-        Hands-On Expertise You Can Rely On
+        Hands On Expertise You Can Rely On
       </h2>
       <p className="text-base text-gray-300">
-        From diagnosing faults to fine-tuning performance, our team ensures every repair meets professional standards and delivers lasting results.
+        From diagnosing faults to fine tuning performance, our team ensures every repair meets professional standards and delivers lasting results.
       </p>
     </div>
 
@@ -256,9 +256,9 @@ export default function About() {
         Every washer has a story, and we make sure yours keeps going strong. Our expert care restores performance, extends lifespan, and gives your laundry the clean, effortless results you expect.
       </p>
 
-      <button className="bg-orange-500 text-white px-6 py-3 rounded-md font-semibold hover:bg-orange-600 hover:shadow-xl transition-all duration-300">
+      <Link href="/video"><button className="bg-orange-500 text-white px-6 py-3 rounded-md font-semibold hover:bg-orange-600 hover:shadow-xl transition-all duration-300">
         See How We Repair
-      </button>
+      </button></Link>
 
     </div>
 
