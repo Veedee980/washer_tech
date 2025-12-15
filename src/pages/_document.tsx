@@ -9,6 +9,12 @@ export default function Document() {
           href="https://fonts.googleapis.com/css2?family=Chilax:wght@300;400;500;600;700&display=swap"
           rel="stylesheet"
         />
+        <title>Washer Tech</title>
+        {/* favicon icon */}
+        <link
+          rel="icon"
+          href="/logo.png"
+        />
       </Head>
       <body>
         <Main />
