@@ -99,14 +99,16 @@ export default function About() {
 
       {/* Video Placeholder — NOW CLICKABLE */}
       <Link href="/video">
-        <div className="bg-white p-2 rounded-lg shadow-lg inline-block relative cursor-pointer">
-          <Image 
-            src="/hero-bg.jpg" 
-            alt="Technician Video" 
-            width={250} 
-            height={150} 
-            className="rounded-md"
-          />
+<div className="bg-white p-2 rounded-lg shadow-lg inline-block relative cursor-pointer">
+  <Image 
+    src="/repair5.jpg" 
+    alt="Technician Video" 
+    width={250} 
+    height={150}
+    className="rounded-md object-cover h-32 w-[250px]"
+  />
+
+
 
           {/* Play Icon (same style as you had) */}
           <div className="absolute -mt-20 ml-24">

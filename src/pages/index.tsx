@@ -49,7 +49,7 @@ export default function HomePage() {
     <>
       <Navbar />
 
-      <main className="relative flex flex-col md:flex-row items-center justify-between bg-[url('/service1.jpg')] bg-cover bg-center text-white min-h-screen">
+      <main className="relative flex flex-col md:flex-row items-center justify-between bg-[url('/back-bg.jpg')] bg-cover bg-center text-white min-h-screen">
         <div className="absolute inset-0 bg-black/50"></div>
 
         {/* Left Section */}
@@ -168,24 +168,24 @@ export default function HomePage() {
   <h2 className="text-center text-orange-500 text-2xl md:text-3xl font-bold mb-6">
     About Our Company
   </h2>
-
-  {/* Tabs */}
-  <div className="flex justify-center mb-8 overflow-x-auto">
-    <div className="flex space-x-2 bg-gray-200 rounded-md px-2 py-1 min-w-max">
-      <span className="bg-gray-600 text-white px-4 py-1 rounded-md text-sm font-semibold whitespace-nowrap">
-        Professional
-      </span>
-      <span className="bg-gray-600 text-white px-4 py-1 rounded-md text-sm font-semibold whitespace-nowrap">
-        Affordable
-      </span>
-      <span className="bg-gray-600 text-white px-4 py-1 rounded-md text-sm font-semibold whitespace-nowrap">
-        Efficient
-      </span>
-      <span className="bg-gray-600 text-white px-4 py-1 rounded-md text-sm font-semibold whitespace-nowrap">
-        Trusted
-      </span>
-    </div>
+{/* Tabs */}
+<div className="flex justify-center mb-8 overflow-x-auto px-4">
+  <div className="flex space-x-2 bg-gray-200 rounded-md px-2 py-2 min-w-max">
+    <span className="bg-gray-600 text-white ml-7 px-4 py-1 rounded-md text-sm font-semibold whitespace-nowrap">
+      Professional
+    </span>
+    <span className="bg-gray-600 text-white px-4 py-1 rounded-md text-sm font-semibold whitespace-nowrap">
+      Affordable
+    </span>
+    <span className="bg-gray-600 text-white px-4 py-1 rounded-md text-sm font-semibold whitespace-nowrap">
+      Efficient
+    </span>
+    <span className="bg-gray-600 text-white px-4 py-1 rounded-md text-sm font-semibold whitespace-nowrap">
+      Trusted
+    </span>
   </div>
+</div>
+
 
   {/* Content */}
   <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
